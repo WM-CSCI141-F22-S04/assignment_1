@@ -1,5 +1,8 @@
 import sys
 
-price = int(sys.argv[1])
+p = int(sys.argv[1])
 
-# Write your code here
+nickel =  # Write your code here.
+penny =  # Write your code here.
+
+print(nickel, penny)

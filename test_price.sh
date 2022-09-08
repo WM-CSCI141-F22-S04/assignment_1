@@ -16,6 +16,6 @@ test_output() {
 	fi
 }
 
-test_output "python3 price.py 100" "20,0"
-test_output "python3 price.py 51" "10,1"
-test_output "python3 price.py 68" "13,3"
+test_output "python3 price.py 100" "20 0"
+test_output "python3 price.py 51" "10 1"
+test_output "python3 price.py 68" "13 3"
